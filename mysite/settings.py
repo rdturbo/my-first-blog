@@ -25,7 +25,7 @@ SECRET_KEY = 'z+wwcnih-^y-1@h$daroc+d=y@t!y7ggjvtpf1jk(tq_77#gac'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'rdturbo.pythonanywhere.com']
 
 
 # Application definition
